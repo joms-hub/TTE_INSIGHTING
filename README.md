@@ -6,9 +6,9 @@ This project explores the integration of clustering methods into the framework o
 
 ## Expected Deliverables
 
-1. [`data_censored.csv`](https://github.com/joms-hub/TTE_INSIGHTING/blob/main/data/data_censored.csv) 
-2. [`TTE-v1.ipynb`](https://github.com/joms-hub/TTE_INSIGHTING/blob/main/pycode/TTE-v1.ipynb) 
-3. [`TTE-v2.ipynb`](https://github.com/joms-hub/TTE_INSIGHTING/blob/main/pycode/TTE-v2.ipynb)
-4. [`test.ipynb`](https://github.com/joms-hub/TTE_INSIGHTING/blob/main/pycode/test.ipynb.pdf) 
+1. [Data](https://github.com/joms-hub/TTE_INSIGHTING/blob/main/data/data_censored.csv) 
+2. [TTE Version 1](https://github.com/joms-hub/TTE_INSIGHTING/blob/main/pycode/TTE-v1.ipynb) 
+3. [TTE Version 2](https://github.com/joms-hub/TTE_INSIGHTING/blob/main/pycode/TTE-v2.ipynb)
+4. [Test](https://github.com/joms-hub/TTE_INSIGHTING/blob/main/pycode/test.ipynb.pdf) 
 5. [GitHub Repository](https://github.com/joms-hub/TTE_INSIGHTING) 
 
